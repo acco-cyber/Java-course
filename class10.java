@@ -36,4 +36,4 @@ public class class10 {
         System.out.println(myBool);
         System.out.println(myText);
     }
-}
+    }
