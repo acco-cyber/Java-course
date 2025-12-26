@@ -1,1 +1,1 @@
-qwertyuuiopasdfghjkl;zxcvbnm
+wertyuuiopasdfghjkl;zxcvbnm
