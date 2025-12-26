@@ -1,1 +1,1 @@
-wertyuuiopasdfghjkl;zxcvbnm
+wertyuuiopasdfghjkl;zxcv
